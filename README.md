@@ -1,6 +1,4 @@
-# go-api-testing
-
-# Unit-And-Integration-Testing
+# Unit-And-Integration-Testing for Microservice
 ## A simple approach to understanding Unit and Integration testing in Golang
 
 * Give the database details in .evn
